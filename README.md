@@ -91,3 +91,5 @@ Stern means both "serious and unrelenting" and "the back part of a ship or boat"
  
  ## Let's talk money
  You never have to pay for this CMS directly or for it's plugins. Of course plugin developers are free to require an account for their external service and charge money. It will be mandatory to label your plugin as such in that case. However you never need to pay to download the source code.
+ 
+ The way we might want to earn some money is by user being able to donate towards specific goals/features. This way we could spent more time towards this project, hire other developers or auditors so this can truly become the greatest CMS there is. For now this won't happen, because we first need a stable working application.
