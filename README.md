@@ -80,6 +80,7 @@ Stern means both "serious and unrelenting" and "the back part of a ship or boat"
  - [ ] Community driven when ready for production: decisions will be made through polls
  - [ ] Convenience like for example the ability to translate assets automatically by sending it to a translation agency through an API
  - [ ] Extensive documentation that is easy to understand. A great example is the Laravel documentation
+ - [ ] Previewing layouts with dummy data like images from [Unsplash](https://source.unsplash.com/)
  
  ## No need to reinvent the wheel
  We try to be smart and borrow some packages from other developers
