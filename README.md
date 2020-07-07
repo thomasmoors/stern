@@ -80,7 +80,7 @@ If you discover any security related issues, please email freek@spatie.be instea
 The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
 
 ## Naming
-Stern means both "serious and unrelenting" and "the back part of a ship or boat". Both apply, we strive to make something robust and worthy of serving websites that need a certain level of maturity in their CMS. And I'd like to see a CMS as the backside of thing, be it the back part of a boat, the dark side of the moon or the hidden part of the iceberg.
+Stern means both "serious and unrelenting" and "the back part of a ship or boat". Both apply, we strive to make something robust and worthy of serving websites that need a certain level of maturity in their CMS. And I'd like to see a CMS as the backside of things, be it the back part of a boat, the dark side of the moon or the hidden part of the iceberg.
 
 ## Goals
  - [ ] Simple to use without taking away the ability to do advanced stuff
