@@ -1,4 +1,4 @@
-# :package_description
+# Stern CMS
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/spatie/:package_name.svg?style=flat-square)](https://packagist.org/packages/spatie/:package_name)
 [![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/spatie/:package_name/run-tests?label=tests)](https://github.com/spatie/:package_name/actions?query=workflow%3Arun-tests+branch%3Amaster)
@@ -58,12 +58,7 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security
 
-If you discover any security related issues, please email freek@spatie.be instead of using the issue tracker.
-
-## Credits
-
-- [:author_name](https://github.com/:author_username)
-- [All Contributors](../../contributors)
+If you discover any security related issues, please email 16e08b42-86aa-483b-ab60-3d308587c043@thomasmoors.anonaddy.com instead of using the issue tracker.
 
 ## License
 
@@ -91,6 +86,10 @@ Stern means both "serious and unrelenting" and "the back part of a ship or boat"
  - [Media management](https://github.com/ctf0/Laravel-Media-Manager)
  
  ## Let's talk money
+ ### Taking
  You never have to pay for this CMS directly or for it's plugins. Of course plugin developers are free to require an account for their external service and charge money. It will be mandatory to label your plugin as such in that case. However you never need to pay to download the source code.
  
- The way we might want to earn some money is by user being able to donate towards specific goals/features. This way we could spent more time towards this project, hire other developers or auditors so this can truly become the greatest CMS there is. For now this won't happen, because we first need a stable working application.
+ The way we might want to earn some money is by user being able to donate towards specific goals/features. This way we could spent more time towards this project, hire other developers or auditors so this can truly become the greatest CMS there is. For now this won't happen, because we first need a stable working application. Also we do like to offer the ability to sell templates, but might take a small share of the profits. Max 5%.
+ 
+ ### Giving
+Because we use a lot of other developers work, we'd like to give something back. At the moment I'm not sure what would be fair, at least 10% I'd think.
