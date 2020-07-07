@@ -8,16 +8,6 @@
 
 This is where your description should go. Limit it to a paragraph or two. Consider adding a small example.
 
-## Support us
-
-Learn how to create a package like this one, by watching our premium video course:
-
-[![Laravel Package training](https://spatie.be/github/package-training.jpg)](https://laravelpackage.training)
-
-We invest a lot of resources into creating [best in class open source packages](https://spatie.be/open-source). You can support us by [buying one of our paid products](https://spatie.be/open-source/support-us).
-
-We highly appreciate you sending us a postcard from your hometown, mentioning which of our package(s) you are using. You'll find our address on [our contact page](https://spatie.be/about-us). We publish all received postcards on [our virtual postcard wall](https://spatie.be/open-source/postcards).
-
 ## Installation
 
 You can install the package via composer:
@@ -88,4 +78,16 @@ Stern means both "serious and unrelenting" and "the back part of a ship or boat"
  - [ ] With best practises in mind, both in coding as in running a website
  - [ ] Event sourcing driven, so you never lose any content
  - [ ] Community driven when ready for production: decisions will be made through polls
+ - [ ] Convenience like for example the ability to translate assets automatically by sending it to a translation agency through an API
+ - [ ] Extensive documentation that is easy to understand. A great example is the Laravel documentation
  
+ ## No need to reinvent the wheel
+ We try to be smart and borrow some packages from other developers
+ - [Gutenberg](https://wordpress.org/gutenberg/) (Probably through [Laraberg](https://github.com/VanOns/laraberg))
+ - [CoreUI](https://coreui.io/)
+ - [Event sourcing](https://github.com/spatie/laravel-event-sourcing)
+ - [Roles and permissions](https://github.com/spatie/laravel-permission)
+ - [Media management](https://github.com/ctf0/Laravel-Media-Manager)
+ 
+ ## Let's talk money
+ You never have to pay for this CMS directly or for it's plugins. Of course plugin developers are free to require an account for their external service and charge money. It will be mandatory to label your plugin as such in that case. However you never need to pay to download the source code.
